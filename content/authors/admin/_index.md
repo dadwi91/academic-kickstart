@@ -27,7 +27,7 @@ interests:
 
 education:
   courses:
-  - course: Msc. in Aerospace Systems: GNSS & Telecommunication  
+  - course: Msc. in Aerospace Systems GNSS & Telecommunication  
     institution: École Nationale de l'Aviation Civile
     year: 2017
   - course: Bsc in Engineering Physics
