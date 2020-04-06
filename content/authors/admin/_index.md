@@ -55,7 +55,7 @@ social:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "adhitya.dicky@gmail.com"
 
-
+---
 Dicky Dwiantoro is an experienced engineer in satellite navigation(GNSS) field and specialize in testing and troubleshooting software and hardware mainly related to GNSS products.
 Skills: RPA(UiPath), Python, MATLAB
 Tools: Jira, Confluence, Testrail, TestComplete14
