@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Dicky Dwiantoro
 
 # Username (this should match the folder name)
 authors:
@@ -10,66 +10,60 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Innovation Support Engineer
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: FUGRO Innovation & Technology B.V
+  url: "https://www.fugro.com/our-services/marine-asset-integrity/satellite-positioning"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Satellite Navigation (GNSS)
+- Space Technology
+- Space Business & Economics
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Msc. in Aerospace Systems: GNSS & Telecommunication  
+    institution: École Nationale de l'Aviation Civile
+    year: 2017
+  - course: Bsc in Engineering Physics
+    institution: Bandung Institute of Technology
+    year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+- icon: linkedin
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://www.linkedin.com/in/dicky-adhitya-dwiantoro/
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+  link: https://github.com/dadlog/
+- icon: envelope
+  icon_pack: fas
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+  link: 'mailto:adhitya.dicky@gmail.com'  # For a direct email link, use "mailto:test@example.org".
+
+
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "adhitya.dicky@gmail.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+#user_groups:
+#- Researchers
+#- Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Dicky Dwiantoro is an experienced engineer in satellite navigation(GNSS) field and specialize in testing and troubleshooting software and hardware mainly related to GNSS products.
+Skills: RPA(UiPath), Python, MATLAB
+Tools: Jira, Confluence, Testrail, TestComplete14
