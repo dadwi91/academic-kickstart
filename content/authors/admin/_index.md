@@ -14,7 +14,7 @@ role: Innovation Support Engineer
 
 # Organizations/Affiliations
 organizations:
-- name: FUGRO Innovation & Technology B.V
+- name: Fugro Innovation & Technology B.V
   url: "https://www.fugro.com/our-services/marine-asset-integrity/satellite-positioning"
 
 # Short bio (displayed in user profile at end of posts)

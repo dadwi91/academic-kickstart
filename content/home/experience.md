@@ -18,27 +18,35 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Innovation Support Engineer"
+  company = "Fugro Innovation & Technology BV"
+  company_url = "https://www.fugro.com/our-services/marine-asset-integrity/satellite-positioning"
+  location = "Nootdorp"
+  date_start = "2019-05-01"
   date_end = ""
   description = """
   Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+
+  * Provide technical helpdesk support particularly in GNSS-related subject to Fugro Operating Companies
+  * Define test plans and test cases, exploiting TestRail as the main tool, for new products and modules (software and firmware)
+  * Testing of products and modules prior to release
+  * Writing of technical manuals and knowledge base article
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "GNSS Engineer"
+  company = "GNSS Technologies Inc. Japan"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Tokyo"
+  date_start = "2018-05-01"
+  date_end = "2019-04-05"
+  description = """
+  Resposibilities include:
+
+  * Assisted in reviewing technical specifications of GNSS base station and GNSS antenna for Japanese Nationwide RTK (Real-Time Kinematic) project.
+  * Provide technical assistance to the Global Business Development Team for overseas business decision-making.
+  * Conducted testing on several GNSS products such as Swift Multi-Piksi, JAVAD Delta-3N, NAVCOM SF-3050 Starfire, Septentrio AsteRx-U, and GNSS Simulator Spectracom GSG-6.
+  * LiDAR Acquisition data with RIEGL VUX-1UAV with NovAtel IMU-ISA-100C (Odaiba and Rainbow Bridge Route scanning).
+  """
 
 +++
