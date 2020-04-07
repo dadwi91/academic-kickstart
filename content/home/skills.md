@@ -15,34 +15,32 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "Robot"
-  icon_pack = "fas"
+  icon = "robot"
+  icon_pack = "fas fa-robot"
   name = "UiPath RPA"
 
 [[feature]]
-  icon = "Python"
-  icon_pack = "fas"
+  icon = "python"
+  icon_pack = "fab fa-python"
   name = "Python"
 
 [[feature]]
-  icon = "Javascript"
-  icon_pack = "fas"
+  icon = "js"
+  icon_pack = "fab fa-js"
   name = "Javascript"
 
 [[feature]]
-  icon = "Jira"
+  icon = "jira"
   icon_pack = "fab"
   name = "Jira"
 
 [[feature]]
-  icon = "Confluence"
-  icon_pack = "fab"
+  icon = "confluence"
+  icon_pack = "fab fa-confluence"
   name = "Confluence"
 
 [[feature]]
-  icon = "Microsoft"
-  icon_pack = "fab"
+  icon = "microsoft"
+  icon_pack = "fab fa-microsoft"
   name = "Office365"
-
-
 +++
