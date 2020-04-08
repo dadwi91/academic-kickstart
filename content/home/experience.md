@@ -48,5 +48,13 @@ date_format = "Jan 2006"
   * Conducted testing on several GNSS products such as Swift Multi-Piksi, JAVAD Delta-3N, NAVCOM SF-3050 Starfire, Septentrio AsteRx-U, and GNSS Simulator Spectracom GSG-6.
   * LiDAR Acquisition data with RIEGL VUX-1UAV with NovAtel IMU-ISA-100C (Odaiba and Rainbow Bridge Route scanning).
   """
+[[experience]]
+  title = "GNSS Algorithm Intern"
+  company = "M3Systems"
+  company_url = "https://m3systems.eu/en/home/"
+  location = "Toulouse"
+  date_start = "2017-02"
+  date_end = "2017-08"
+  description = "Conducted research of signal acquisition and tracking techniques of GNSS receiver for Radio Occultation (RO) application, implement the most suitable algorithm for such scenario and assess its performance in the GNSS Post-Correlation Simulator (MATLAB-based)."
 
 +++

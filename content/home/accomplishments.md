@@ -19,33 +19,22 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
+  organization = "UiPath"
+  organization_url = "https://www.uipath.com/solutions/technology"
+  title = "RPA Developer Foundation Certification"
   url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
+  certificate_url = "https://drive.google.com/file/d/17IAkanSaOvTqhVLvQh77wFUC1bopxHPC/view?usp=sharing"
+  date_start = "2020-03"
   date_end = ""
   description = ""
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
-  date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
-  
-[[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
+  organization = "UiPath"
+  organization_url = "https://www.uipath.com/solutions/technology"
+  title = "RPA Starter Training"
   url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
+  certificate_url = "https://drive.google.com/open?id=1x5hQQl8hAZSJvx-icYeoI_C2Ht70l8-q"
+  date_start = "2020-03"
+  date_end = ""
   description = ""
-
 +++
