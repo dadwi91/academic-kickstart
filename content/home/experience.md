@@ -53,8 +53,8 @@ date_format = "Jan 2006"
   company = "M3Systems"
   company_url = "https://m3systems.eu/en/home/"
   location = "Toulouse"
-  date_start = "2017-02"
-  date_end = "2017-08"
+  date_start = "2017-02-01"
+  date_end = "2017-08-01"
   description = "Conducted research of signal acquisition and tracking techniques of GNSS receiver for Radio Occultation (RO) application, implement the most suitable algorithm for such scenario and assess its performance in the GNSS Post-Correlation Simulator (MATLAB-based)."
 
 +++
