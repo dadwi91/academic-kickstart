@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+title = "Accomplishments"
 subtitle = ""
 
 # Date format
@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   title = "RPA Developer Foundation Certification"
   url = ""
   certificate_url = "https://drive.google.com/file/d/17IAkanSaOvTqhVLvQh77wFUC1bopxHPC/view?usp=sharing"
-  date_start = "2020-03"
+  date_start = "2020-03-01"
   date_end = ""
   description = ""
 
@@ -34,7 +34,7 @@ date_format = "Jan 2006"
   title = "RPA Starter Training"
   url = ""
   certificate_url = "https://drive.google.com/open?id=1x5hQQl8hAZSJvx-icYeoI_C2Ht70l8-q"
-  date_start = "2020-03"
+  date_start = "2020-03-01"
   date_end = ""
   description = ""
 +++
