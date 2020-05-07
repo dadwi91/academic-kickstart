@@ -36,7 +36,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "GNSS Engineer"
   company = "GNSS Technologies Inc. Japan"
-  company_url = ""
+  company_url = "https://www.enabler.co.jp/news/20181201"
   location = "Tokyo"
   date_start = "2018-05-01"
   date_end = "2019-04-05"

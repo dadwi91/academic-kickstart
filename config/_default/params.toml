@@ -9,7 +9,7 @@
 #   Latest themes (may require updating): https://sourcethemes.com/academic/themes/
 #   Browse built-in themes in `themes/academic/data/themes/`
 #   Browse user installed themes in `data/themes/`
-theme = "minimal"
+theme = "mr robot"
 
 # Enable users to switch between day and night mode?
 day_night = true
@@ -82,11 +82,11 @@ privacy_pack = false
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "adhitya.dicky@gmail.com"
-phone = "06 26 90 91 72"
+phone = "+31 6 26 90 91 72"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "", city = "The Hague", region = "", postcode = "", country = "Netherlands", country_code = "NL"}
+#address = {street = "", city = "The Hague", region = "South-Holland", postcode = "2597XS", country = "Netherlands", country_code = "NL"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
@@ -109,7 +109,7 @@ contact_links = [
   #{icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
   #{icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   #{icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
-  {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@dckyadhtya"},
+  {icon = "telegram", icon_pack = "fab", name = "Add me in Telegram!", link = "https://telegram.me/@dckyadhtya"},
   ]
 
 ############################
@@ -140,7 +140,7 @@ address_format = "en-us"
 ############################
 
 # Main menu alignment (l = left, c = center, r = right) and logo options.
-main_menu = {align = "l", show_logo = true}
+main_menu = {align = "l", show_logo = false}
 
 # Show estimated reading time for posts? (true/false)
 reading_time = true
