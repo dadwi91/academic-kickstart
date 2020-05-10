@@ -25,11 +25,11 @@ interests:
 - Space Technology
 - Space Business & Economics
 - Test Automation
-- Robotica Process Automation
+- Robotic Process Automation
 
 education:
   courses:
-  - course: Full-Stack Developers Path
+  - course: Full-Stack Developer Path
     institution: Freecodecamp
     year: 2020 - present
   - course: Msc. in Aerospace Systems GNSS & Telecommunication  

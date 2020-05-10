@@ -27,9 +27,8 @@ date_format = "Jan 2006"
   description = """
   Responsibilities include:
 
-  * Provide technical helpdesk support particularly in GNSS-related subject to Fugro Operating Companies
-  * Define test plans and test cases, exploiting TestRail as the main tool, for new products and modules (software and firmware)
-  * Testing of products and modules prior to release
+  * Provide technical helpdesk support particularly in GNSS-related issues to Fugro Operating Companies
+  * Define test plans and test cases, exploiting TestRail as the main tool, for testing new products and modules (software and firmware) prior to release.
   * Writing of technical manuals and knowledge base article
   """
 
@@ -46,7 +45,6 @@ date_format = "Jan 2006"
   * Assisted in reviewing technical specifications of GNSS base station and GNSS antenna for Japanese Nationwide RTK (Real-Time Kinematic) project.
   * Provide technical assistance to the Global Business Development Team for overseas business decision-making.
   * Conducted testing on several GNSS products such as Swift Multi-Piksi, JAVAD Delta-3N, NAVCOM SF-3050 Starfire, Septentrio AsteRx-U, and GNSS Simulator Spectracom GSG-6.
-  * LiDAR Acquisition data with RIEGL VUX-1UAV with NovAtel IMU-ISA-100C (Odaiba and Rainbow Bridge Route scanning).
   """
 [[experience]]
   title = "GNSS Algorithm Intern"
@@ -55,6 +53,14 @@ date_format = "Jan 2006"
   location = "Toulouse"
   date_start = "2017-02-01"
   date_end = "2017-08-01"
-  description = "Conducted research of signal acquisition and tracking techniques of GNSS receiver for Radio Occultation (RO) application, implement the most suitable algorithm for such scenario and assess its performance in the GNSS Post-Correlation Simulator (MATLAB-based)."
+  description = "Conducted research of signal acquisition and tracking techniques of GNSS receiver for Radio Occultation (RO) application, implemented the most suitable algorithm for such scenario and assessed its performance in the GNSS Post-Correlation Simulator (MATLAB-based)."
 
+[[experience]]
+  title = "TOP 5 Finalists - AIRBUS Fly Your Ideas 2017"
+  company = "Airbus S.A.S"
+  company_url = "https://drive.google.com/file/d/1P11kB_2gfffxdsuZYa_42PuszcarkeeK/view?usp=sharing"
+  location = "Toulouse"
+  date_start = "2016-09-01"
+  date_end = "2017-05-01"
+  description = """Formulated new boarding system, namely **_Compact Luggage Strategy_**, to assign boarding status for passengers based on their luggage size in order to reduce seat and aisle interference inside the airplane. Supporting details are provided in [video](ttps://youtu.be/vEzm0MMzbpI) and  [infographic](https://drive.google.com/file/d/1Uasek7d2HVpYyin-dCFoG6zaybWui4qi/view?usp=sharing)"""
 +++
