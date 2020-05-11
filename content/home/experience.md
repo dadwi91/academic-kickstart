@@ -62,5 +62,5 @@ date_format = "Jan 2006"
   location = "Toulouse"
   date_start = "2016-09-01"
   date_end = "2017-05-01"
-  description = """Formulated new boarding system, namely **_Compact Luggage Strategy_**, to assign boarding status for passengers based on their luggage size in order to reduce seat and aisle interference inside the airplane. Supporting details are provided in [video](ttps://youtu.be/vEzm0MMzbpI) and  [infographic](https://drive.google.com/file/d/1Uasek7d2HVpYyin-dCFoG6zaybWui4qi/view?usp=sharing)"""
+  description = """Formulated new boarding system, namely **_Compact Luggage Strategy_**, to assign boarding status for passengers based on their luggage size in order to reduce seat and aisle interference inside the airplane. Supporting details are provided in [video](https://youtu.be/vEzm0MMzbpI) and  [infographic](https://drive.google.com/file/d/1Uasek7d2HVpYyin-dCFoG6zaybWui4qi/view?usp=sharing)"""
 +++
