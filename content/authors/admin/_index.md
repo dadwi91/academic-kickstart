@@ -18,7 +18,7 @@ organizations:
   url: "https://www.fugro.com/our-services/marine-asset-integrity/satellite-positioning"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Imagine a world without satellites...
 
 interests:
 - Satellite Navigation (GNSS)

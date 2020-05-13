@@ -1,8 +1,8 @@
 ---
-title: Personal Project
-summary: Coding through practical learning and challenges. `.
+title: Other Project
+summary: Coding through practical learning and challenges.
 tags:
-- Portfolio
+- Other
 date: "2020-05-0600:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
