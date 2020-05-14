@@ -1,5 +1,5 @@
 ---
-title: Other Project
+title: Other Projects
 summary: Coding through practical learning and challenges.
 tags:
 - Other
