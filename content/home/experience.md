@@ -29,7 +29,9 @@ date_format = "Jan 2006"
 
   * Provide technical helpdesk support particularly in GNSS-related issues to Fugro Operating Companies
   * Define test plans and test cases, exploiting TestRail as the main tool, for testing new products and modules (software and firmware) prior to release.
-  * Writing of technical manuals and knowledge base article
+  * Writing of technical manuals and knowledge base article.
+
+  <span style="color: #0088cc;">**Technologies**</span>: Javascript, Python, TestRail, TestComplete14, UiPath, Docker, VirtualBox, RTKLib, gLab, Jira (Scrum), Confluence, Office365.
   """
 
 [[experience]]
@@ -45,7 +47,11 @@ date_format = "Jan 2006"
   * Assisted in reviewing technical specifications of GNSS base station and GNSS antenna for Japanese Nationwide RTK (Real-Time Kinematic) project.
   * Provide technical assistance to the Global Business Development Team for overseas business decision-making.
   * Conducted testing on several GNSS products such as Swift Multi-Piksi, JAVAD Delta-3N, NAVCOM SF-3050 Starfire, Septentrio AsteRx-U, and GNSS Simulator Spectracom GSG-6.
+
+  <span style="color: #0088cc;">**Technologies**</span>: Python ,MATLAB, RTKLib, gLab.
   """
+
+
 [[experience]]
   title = "GNSS Algorithm Intern"
   company = "M3Systems"
@@ -53,7 +59,11 @@ date_format = "Jan 2006"
   location = "Toulouse"
   date_start = "2017-02-01"
   date_end = "2017-08-01"
-  description = "Conducted research of signal acquisition and tracking techniques of GNSS receiver for Radio Occultation (RO) application, implemented the most suitable algorithm for such scenario and assessed its performance in the GNSS Post-Correlation Simulator (MATLAB-based)."
+  description = """Conducted research of signal acquisition and tracking techniques of GNSS receiver for Radio Occultation (RO) application, implemented the most suitable algorithm for such scenario and assessed its performance in the GNSS Post-Correlation Simulator (MATLAB-based).
+
+  <span style="color: #0088cc;">**Technologies**</span>: MATLAB.
+
+  """
 
 [[experience]]
   title = "TOP 5 Finalists - AIRBUS Fly Your Ideas 2017"
@@ -62,5 +72,8 @@ date_format = "Jan 2006"
   location = "Toulouse"
   date_start = "2016-09-01"
   date_end = "2017-05-01"
-  description = """Formulated new boarding system, namely **_Compact Luggage Strategy_**, to assign boarding status for passengers based on their luggage size in order to reduce seat and aisle interference inside the airplane. Supporting details are provided in [video](https://youtu.be/vEzm0MMzbpI) and  [infographic](https://drive.google.com/file/d/1Uasek7d2HVpYyin-dCFoG6zaybWui4qi/view?usp=sharing)"""
+  description = """Formulated new boarding system, namely **_Compact Luggage Strategy_**, to assign boarding status for passengers based on their luggage size in order to reduce seat and aisle interference inside the airplane. Supporting details are provided in [video](https://youtu.be/vEzm0MMzbpI) and  [infographic](https://drive.google.com/file/d/1Uasek7d2HVpYyin-dCFoG6zaybWui4qi/view?usp=sharing).
+
+  <span style="color: #0088cc;">**Technologies**</span>: Anylogic, MATLAB, Asana.
+  """
 +++

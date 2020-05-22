@@ -1,28 +1,31 @@
 ---
-title: Professional Projects
-summary: ...
-tags:
-- Professional
+# Course title, summary, and position.
+linktitle: An Example Course
+summary: Learn how to use Academic's docs layout for publishing online courses, software documentation, and tutorials.
+weight: 1
+
+# Page metadata.
+title: Overview
 date: "2018-09-09T00:00:00Z"
-lastmod: "2020-05-14T00:00:00Z"
+lastmod: "2018-09-09T00:00:00Z"
+draft: false  # Is this a draft? true/false
+toc: true  # Show table of contents? true/false
+type: docs  # Do not modify.
 
-image:
-  caption: Photo by Airbus
-  focal_point: Smart
-
-
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides: example-slides
+# Add menu entry to sidebar.
+# - name: Declare this menu item as a parent with ID `name`.
+# - weight: Position of link in menu.
+menu:
+  example:
+    name: Overview
+    weight: 1
 ---
+
 ## Flexibility
 
 This feature can be used for publishing content such as:
 
-* **Online courses** (#install)
+* **Online courses**
 * **Project or software documentation**
 * **Tutorials**
 

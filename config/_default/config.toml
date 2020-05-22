@@ -18,7 +18,7 @@ copyright = "Dicky Dwiantoro &copy; 2020"
 ############################
 ## Advanced options below ##
 ############################
-
+refLinksErrorLevel = "WARNING"
 # Name of Academic theme folder in `themes/`.
 theme = "academic"
 
