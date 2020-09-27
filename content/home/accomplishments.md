@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Accomplishments"
+title = "Certifications"
 subtitle = ""
 
 # Date format
@@ -35,6 +35,16 @@ date_format = "Jan 2006"
   url = ""
   certificate_url = "https://drive.google.com/file/d/1nnkwumqkCGiP7yGXpDtEl7qEfAdhvaca/view?usp=sharing"
   date_start = "2020-04-01"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "FreeCodeCamp"
+  organization_url = "https://www.freecodecamp.org/"
+  title = "Javascript Algorithms and Data Structures"
+  url = ""
+  certificate_url = "https://www.freecodecamp.org/certification/dadlog/javascript-algorithms-and-data-structures"
+  date_start = "2020-05-24"
   date_end = ""
   description = ""
 +++
