@@ -18,15 +18,15 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
-[[item]]
-  organization = "UiPath"
-  organization_url = "https://www.uipath.com/solutions/technology"
-  title = "RPA Developer Foundation Certificate"
-  url = ""
-  certificate_url = "https://drive.google.com/file/d/17IAkanSaOvTqhVLvQh77wFUC1bopxHPC/view?usp=sharing"
-  date_start = "2020-03-01"
-  date_end = ""
-  description = ""
+#[[item]]
+#  organization = "UiPath"
+#  organization_url = "https://www.uipath.com/solutions/technology"
+#  title = "RPA Developer Foundation Certificate"
+#  url = ""
+#  certificate_url = "https://drive.google.com/file/d/17IAkanSaOvTqhVLvQh77wFUC1bopxHPC/view?usp=sharing"
+#  date_start = "2020-03-01"
+#  date_end = ""
+#  description = ""
 
 [[item]]
   organization = "UiPath"
@@ -45,6 +45,16 @@ date_format = "Jan 2006"
   url = ""
   certificate_url = "https://www.freecodecamp.org/certification/dadlog/javascript-algorithms-and-data-structures"
   date_start = "2020-05-24"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "Scrum.org"
+  organization_url = "https://www.scrum.org/"
+  title = "Professional Scrum Product Owner I"
+  url = ""
+  certificate_url = "https://www.scrum.org/certificates/646139"
+  date_start = "2021-03-26"
   date_end = ""
   description = ""
 +++

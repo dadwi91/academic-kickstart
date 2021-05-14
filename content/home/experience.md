@@ -17,19 +17,36 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[experience]]
+  title = "Product Owner GNSS Hardware"
+  company = "Fugro Innovation & Technology BV"
+  company_url = "https://www.fugro.com/about-fugro/our-expertise/innovations/starfix-global-positioning"
+  location = "Nootdorp"
+  date_start = "2021-01-01"
+  date_end = ""
+  description = """
+  Responsibilities include:
+  *	Develop and maintain Fugro GNSS Hardware products to be aligned with the vision and the general product roadmap.
+  *	Acting as liaison between business, sales, and development teams to refine product and incorporate features based on market demands.
+  * Populate and organize product backlog in Jira by formulating understandable requirements, epics, and user stories.
+  *	Prioritize work package for the development team and schedule deliveries (release planning).
+  """
+
 [[experience]]
   title = "Innovation Support Engineer"
   company = "Fugro Innovation & Technology BV"
-  company_url = "https://www.fugro.com/our-services/marine-asset-integrity/satellite-positioning"
+  company_url = "https://www.fugro.com/about-fugro/our-expertise/innovations/starfix-global-positioning"
   location = "Nootdorp"
   date_start = "2019-05-01"
   date_end = ""
   description = """
   Responsibilities include:
 
-  * Provide technical helpdesk support particularly in GNSS-related issues to Fugro Operating Companies
-  * Define test plans and test cases, exploiting TestRail as the main tool, for testing new products and modules (software and firmware) prior to release.
-  * Writing of technical manuals and knowledge base article.
+  * Support the development team as embedded software tester to test new modules and functionalities as a part of regression and integration testing prior to release.
+  * Formulate test plans and test cases to validate the acceptance criteria by exploiting TestRail as the primary tool.
+  * Provide technical helpdesk support and bug reports particularly in GNSS-related issues to Fugro Operating Companies
+  * Writing of technical manuals and knowledge base article in Confluence
 
   <span style="color: #0088cc;">**Technologies**</span>: Javascript, Python, TestRail, TestComplete14, UiPath, Docker, VirtualBox, RTKLib, gLab, Jira (Scrum), Confluence, Office365.
   """
@@ -50,7 +67,6 @@ date_format = "Jan 2006"
 
   <span style="color: #0088cc;">**Technologies**</span>: Python ,MATLAB, RTKLib, gLab.
   """
-
 
 [[experience]]
   title = "GNSS Algorithm Intern"
