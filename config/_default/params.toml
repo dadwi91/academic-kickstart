@@ -231,15 +231,15 @@ plugins_js  = []
   #   0: No search engine
   #   1: Academic (built-in)
   #   2: Algolia (https://www.algolia.com)
-  engine = 1
+  engine = 2
 
   # Configuration of Algolia search engine.
   # Paste the values from your Algolia dashboard.
   [search.algolia]
-    app_id = ""
-    api_key = ""
-    index_name = ""
-    show_logo = false
+    app_id = "5OBRFPUBUP"
+    api_key = "e9ab28e94f55d2da13cfa4f472f72495"
+    index_name = "dadlog.space"
+    show_logo = true
 
 ############################
 ## Maps
